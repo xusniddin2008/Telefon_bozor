@@ -14,7 +14,7 @@ CHANNELS = ["-1001541827460"]'''
 import os
 
 BOT_TOKEN = str(os.environ.get("BOT_TOKEN"))  # Bot toekn
-ADMINS = str(os.environ.get("ADMINS"))  # adminlar ro'yxati
+ADMINS= [5214383653,737003043]  # adminlar ro'yxati
 IP = str(os.environ.get("ip"))  # Xosting ip manzili
 
 CHANNELS = ["-1001541827460"]
